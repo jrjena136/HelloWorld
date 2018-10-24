@@ -1,0 +1,7 @@
+Hello Jyoti ranjan, welcome to GIT.
+
+Continue reading GIT and GITHUB
+
+Date : 24 Oct 2018
+
+Added some text as I am testing git branching and merging.
